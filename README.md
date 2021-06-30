@@ -1,1 +1,1 @@
-# Andrew_Wiskus_Solo_Project
+Working Prototype for HomeHack django app
